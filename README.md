@@ -132,7 +132,6 @@ Supported by / 支持者:
 * Yibo Wei, Mobile Developer, SAP
 * Cherrie Yu Cheng, Product Manager
 * Zion Chen, Software Engineer, SAP
-* ZedeX Zhao, Director of Product, PingAn Group
 * Long Minghui, Golang Senior Programmer
 * Lantao Liu (Lax), Programmer, Full-Time Freelancer
 * Ashe Connor, Senior Software Engineer, GitHub 
@@ -147,3 +146,4 @@ Supported by / 支持者:
 * Xiangyu (Shawn) Xiao, Tech Support Engineer, Microsoft
 * Noah Berman, Backend Engineer, WeTransfer
 * Li Xiaoyang, Software Engineer, Didi Chuxing
+* Xinchen Pan (Nicky), Bioinformatics Engineer, Shanghai We-health
